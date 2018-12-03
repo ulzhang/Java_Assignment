@@ -1,0 +1,5 @@
+Create a file named Eid.java (e.g. Jr007.java.
+
+Create a non-public class called Student inside the above file.
+
+Submit the Eid.java file for grading.
